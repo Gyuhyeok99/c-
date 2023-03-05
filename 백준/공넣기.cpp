@@ -21,4 +21,6 @@ int main() {
 	for (int i = 1; i <= N; i++) {
 		cout << arr[i] << " ";
 	}
+
+	cout << "น้มุ" << endl;
 }
